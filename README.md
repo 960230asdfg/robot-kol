@@ -12,9 +12,9 @@ Kumandanın sol joystiğini yukarı aşağı itince kol yukarı aşağı hareket
 Kumandanın sağ joystiğini yukarı aşağı itince kolun açısı değişiyor. Sola sağa itince de kol sağa sola dönüş yapıyor.  
 
 Kullanımı kolay olsun diye şu özellikleri de ekledim: 
--- Sağ taraftaki joystick ile ayarladığınız dönüş pozisyonunu sabitlemek için sol joystiğe bir kere bastırıyorsunuz. 
--- Sağ taraftaki joystick ile ayarladığınız açı pozisyonunu sabitlemek için sol joystiğe iki kere bastırıyorsunuz.
--- Sol taraftaki joystick ile ayarladığınız el pozisyonunu sabitlemek için sağ joystiğe bir kere bastırıyorsunuz.
--- Sol taraftaki joystick ile ayarladığınız yükseklik pozisyonunu sabitlemek için sağ joystiğe iki kere bastırıyorsunuz.
--- Sol joystiğe 1 saniye basılı tutunca sabitlediğiniz pozisyonlar temizleniyor. 
--- Sağ joystiğe 1 saniye basılı tutunca lamba açılıp kapanıyor. 
+- Sağ taraftaki joystick ile ayarladığınız dönüş pozisyonunu sabitlemek için sol joystiğe bir kere bastırıyorsunuz. 
+- Sağ taraftaki joystick ile ayarladığınız açı pozisyonunu sabitlemek için sol joystiğe iki kere bastırıyorsunuz.
+- Sol taraftaki joystick ile ayarladığınız el pozisyonunu sabitlemek için sağ joystiğe bir kere bastırıyorsunuz.
+- Sol taraftaki joystick ile ayarladığınız yükseklik pozisyonunu sabitlemek için sağ joystiğe iki kere bastırıyorsunuz.
+- Sol joystiğe 1 saniye basılı tutunca sabitlediğiniz pozisyonlar temizleniyor. 
+- Sağ joystiğe 1 saniye basılı tutunca lamba açılıp kapanıyor. 
