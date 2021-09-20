@@ -11,7 +11,7 @@ Daha sonra Arduino UNO üzerinde çalışacak kodu kendim yazdım. Ama takıldı
 Kumandanın sol joystiğini yukarı aşağı itince kol yukarı aşağı hareket ediyor. Sola sağa itince de ucundaki el açılıp kapanıyor. 
 Kumandanın sağ joystiğini yukarı aşağı itince kolun açısı değişiyor. Sola sağa itince de kol sağa sola dönüş yapıyor.  
 
-Kullanımı kolay olsun diye şu özellikleri de ekledim: 
+**Kullanımı kolay olsun diye şu özellikleri de ekledim: **
 - Sağ taraftaki joystick ile ayarladığınız dönüş pozisyonunu sabitlemek için sol joystiğe bir kere bastırıyorsunuz. 
 - Sağ taraftaki joystick ile ayarladığınız açı pozisyonunu sabitlemek için sol joystiğe iki kere bastırıyorsunuz.
 - Sol taraftaki joystick ile ayarladığınız el pozisyonunu sabitlemek için sağ joystiğe bir kere bastırıyorsunuz.
